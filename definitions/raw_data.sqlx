@@ -1,0 +1,7 @@
+config {
+    type: "table"
+}
+
+SELECT 
+* 
+from  `second-metrics-466817-p1.producto.external_producto_data`
