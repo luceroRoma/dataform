@@ -1,0 +1,5 @@
+defaultProject: second-metrics-466817-p1
+defaultLocation: US
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0
